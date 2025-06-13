@@ -145,8 +145,8 @@ df = load_data()
 # Header principal
 st.markdown("""
 <div class="main-header">
-    <h1>Dashboard E-commerce Analytics</h1>
-    <p>Análise Completa de Performance de Vendas e Marketing</p>
+    <h1>E-commerce Analytics</h1>
+    <p>Análise da Performance de Vendas e Marketing</p>
 </div>
 """, unsafe_allow_html=True)
 
