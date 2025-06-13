@@ -169,7 +169,7 @@ with col2:
         y=receita_canal.index,
         orientation='h',
         color=receita_canal.values,
-        color_continuous_scale='Blues',
+        color_continuous_scale=['#b7e4c7', '#1b4332'],
         text=receita_canal.values.round(0)
     )
     fig2.update_traces(texttemplate='R$ %{text:.0f}', textposition='outside')
@@ -178,7 +178,9 @@ with col2:
         showlegend=False,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        coloraxis_showscale=False
+        coloraxis_showscale=False,
+        xaxis_title="Receita (R$)",
+        yaxis_title="Canal de Origem"
     )
     st.plotly_chart(fig2, use_container_width=True)
 
@@ -207,7 +209,9 @@ with col3:
         showlegend=False,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        coloraxis_showscale=False
+        coloraxis_showscale=False,
+        xaxis_title="Canal de Origem",
+        yaxis_title="Aov (R$)"
     )
     st.plotly_chart(fig3, use_container_width=True)
 
@@ -255,7 +259,9 @@ with col5:
         showlegend=False,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        coloraxis_showscale=False
+        coloraxis_showscale=False,
+        xaxis_title="Categoria de Interesse",
+        yaxis_title="Taxa de Abandono (%)"
     )
     st.plotly_chart(fig5, use_container_width=True)
 
@@ -285,30 +291,30 @@ with col6:
     )
     st.plotly_chart(fig6, use_container_width=True)
 
-# Gráfico adicional 7: Análise Temporal (simulada)
-st.markdown("### 📅 Análise de Performance Temporal")
-dates = pd.date_range(start='2024-01-01', end='2024-12-31', freq='M')
-monthly_revenue = np.random.lognormal(10, 0.3, len(dates))
-monthly_conversions = np.random.poisson(50, len(dates))
+# # Gráfico adicional 7: Análise Temporal (simulada)
+# st.markdown("### 📅 Análise de Performance Temporal")
+# dates = pd.date_range(start='2024-01-01', end='2024-12-31', freq='M')
+# monthly_revenue = np.random.lognormal(10, 0.3, len(dates))
+# monthly_conversions = np.random.poisson(50, len(dates))
 
-fig7 = make_subplots(specs=[[{"secondary_y": True}]])
-fig7.add_trace(
-    go.Scatter(x=dates, y=monthly_revenue, name="Receita Mensal", line=dict(color='#2a5298')),
-    secondary_y=False,
-)
-fig7.add_trace(
-    go.Scatter(x=dates, y=monthly_conversions, name="Conversões", line=dict(color='#e74c3c')),
-    secondary_y=True,
-)
-fig7.update_xaxes(title_text="Período")
-fig7.update_yaxes(title_text="Receita (R$)", secondary_y=False)
-fig7.update_yaxes(title_text="Número de Conversões", secondary_y=True)
-fig7.update_layout(
-    height=400,
-    plot_bgcolor='rgba(0,0,0,0)',
-    paper_bgcolor='rgba(0,0,0,0)'
-)
-st.plotly_chart(fig7, use_container_width=True)
+# fig7 = make_subplots(specs=[[{"secondary_y": True}]])
+# fig7.add_trace(
+#     go.Scatter(x=dates, y=monthly_revenue, name="Receita Mensal", line=dict(color='#2a5298')),
+#     secondary_y=False,
+# )
+# fig7.add_trace(
+#     go.Scatter(x=dates, y=monthly_conversions, name="Conversões", line=dict(color='#e74c3c')),
+#     secondary_y=True,
+# )
+# fig7.update_xaxes(title_text="Período")
+# fig7.update_yaxes(title_text="Receita (R$)", secondary_y=False)
+# fig7.update_yaxes(title_text="Número de Conversões", secondary_y=True)
+# fig7.update_layout(
+#     height=400,
+#     plot_bgcolor='rgba(0,0,0,0)',
+#     paper_bgcolor='rgba(0,0,0,0)'
+# )
+# st.plotly_chart(fig7, use_container_width=True)
 
 # Tabela de dados
 st.markdown("---")
