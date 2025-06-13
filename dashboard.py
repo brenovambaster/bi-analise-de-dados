@@ -124,14 +124,15 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.markdown("### 📈 Taxa de Conclusão vs. Abandono por Canal")
+    
+    # Lógica corrigida: Taxa de Conversão + Taxa de Não Conversão = 100%
     canal_stats = df_filtered.groupby('canal_origem').agg({
-        'realizou_compra': ['sum', 'count'],
-        'abandonou_carrinho': 'sum'
+        'realizou_compra': ['sum', 'count']
     }).round(2)
     
-    canal_stats.columns = ['Compras', 'Total', 'Abandonos']
+    canal_stats.columns = ['Compras', 'Total']
     canal_stats['Taxa_Conversao'] = (canal_stats['Compras'] / canal_stats['Total'] * 100).round(1)
-    canal_stats['Taxa_Abandono'] = (canal_stats['Abandonos'] / canal_stats['Total'] * 100).round(1)
+    canal_stats['Taxa_Nao_Conversao'] = (100 - canal_stats['Taxa_Conversao']).round(1)
     
     fig1 = go.Figure()
     fig1.add_trace(go.Bar(
@@ -143,11 +144,11 @@ with col1:
         textposition='outside'
     ))
     fig1.add_trace(go.Bar(
-        name='Taxa de Abandono',
+        name='Taxa de Não Conversão',
         x=canal_stats.index,
-        y=canal_stats['Taxa_Abandono'],
+        y=canal_stats['Taxa_Nao_Conversao'],
         marker_color='#e74c3c',
-        text=canal_stats['Taxa_Abandono'].astype(str) + '%',
+        text=canal_stats['Taxa_Nao_Conversao'].astype(str) + '%',
         textposition='outside'
     ))
     fig1.update_layout(
@@ -155,9 +156,11 @@ with col1:
         height=400,
         showlegend=True,
         plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor='rgba(0,0,0,0)'
+        paper_bgcolor='rgba(0,0,0,0)',
+        title="Conversão vs Não Conversão (Total = 100%)"
     )
     st.plotly_chart(fig1, use_container_width=True)
+
 
 # 2. Receita Total por Canal de Marketing
 with col2:
@@ -238,8 +241,8 @@ with col4:
 col5, col6 = st.columns(2)
 
 with col5:
-    # 5. Abandono de Carrinho por Categoria
-    st.markdown("### 🛒 Abandono de Carrinho por Categoria")
+    # 5. Abandono de Carrinho por Categoria - Taxa Percentual
+    st.markdown("### 🛒 Taxa de Abandono por Categoria")
     abandono_cat = df_filtered.groupby('categoria_interesse').agg({
         'abandonou_carrinho': ['sum', 'count']
     })
