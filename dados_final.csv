@@ -1,6 +1,6 @@
 nome,abandonou_carrinho,realizou_compra,valor_compra,canal_origem,categoria_interesse,abriu_email,clicou_em_link,Status da Compra,Faixa de Valor
 pessoa1,1,1,1250.52,E-mail,Notebooks,1,1,Comprou,Alto Valor
-pessoa10,0,1,639.32,Instagram,Periféricos,1,0,Comprou,Alto Valor
+pessoa10,0,1,639.32,Instagram,Periféricos,1,0,Comprou,Médio Valor
 pessoa100,1,0,0.0,Facebook,Acessórios,1,0,Abandonou Carrinho,N/A
 pessoa101,0,1,1707.87,Instagram,Periféricos,0,0,Comprou,Alto Valor
 pessoa102,0,1,1476.4,E-mail,Periféricos,1,0,Comprou,Alto Valor
@@ -17,7 +17,7 @@ pessoa111,1,0,0.0,Instagram,Smartphones,1,1,Abandonou Carrinho,N/A
 pessoa112,0,1,1696.86,E-mail,Acessórios,0,0,Comprou,Alto Valor
 pessoa113,1,1,1264.59,Facebook,Smartphones,0,1,Comprou,Alto Valor
 pessoa114,1,1,1742.01,Orgânico,Notebooks,1,0,Comprou,Alto Valor
-pessoa115,0,1,273.21,E-mail,Notebooks,1,0,Comprou,Médio Valor
+pessoa115,0,1,273.21,E-mail,Notebooks,1,0,Comprou,Baixo Valor
 pessoa116,0,1,940.37,Orgânico,Periféricos,1,0,Comprou,Alto Valor
 pessoa117,1,0,0.0,Orgânico,Periféricos,0,0,Abandonou Carrinho,N/A
 pessoa118,1,1,1985.05,Facebook,Smartphones,0,0,Comprou,Alto Valor
@@ -26,18 +26,18 @@ pessoa12,0,1,1458.36,Orgânico,Notebooks,1,0,Comprou,Alto Valor
 pessoa120,0,1,1888.35,Instagram,Notebooks,1,1,Comprou,Alto Valor
 pessoa121,0,1,1344.52,Facebook,Periféricos,1,0,Comprou,Alto Valor
 pessoa122,0,0,0.0,E-mail,Smartphones,0,0,Abandonou Carrinho,N/A
-pessoa123,1,1,376.94,Orgânico,Notebooks,1,1,Comprou,Médio Valor
+pessoa123,1,1,376.94,Orgânico,Notebooks,1,1,Comprou,Baixo Valor
 pessoa124,1,1,1230.08,Facebook,Smartphones,1,1,Comprou,Alto Valor
-pessoa125,0,1,757.43,Orgânico,Acessórios,0,1,Comprou,Alto Valor
-pessoa126,1,1,667.79,Orgânico,Notebooks,1,0,Comprou,Alto Valor
-pessoa127,0,1,237.59,Instagram,Smartphones,1,1,Comprou,Médio Valor
+pessoa125,0,1,757.43,Orgânico,Acessórios,0,1,Comprou,Médio Valor
+pessoa126,1,1,667.79,Orgânico,Notebooks,1,0,Comprou,Médio Valor
+pessoa127,0,1,237.59,Instagram,Smartphones,1,1,Comprou,Baixo Valor
 pessoa128,0,1,1779.05,Google Ads,Periféricos,0,1,Comprou,Alto Valor
 pessoa129,1,1,953.92,Google Ads,Smartphones,1,1,Comprou,Alto Valor
 pessoa13,0,1,1907.94,Orgânico,Smartphones,0,0,Comprou,Alto Valor
 pessoa130,1,0,0.0,E-mail,Periféricos,1,1,Abandonou Carrinho,N/A
 pessoa131,1,0,0.0,Google Ads,Acessórios,0,1,Abandonou Carrinho,N/A
 pessoa132,0,0,0.0,Facebook,Notebooks,1,0,Abandonou Carrinho,N/A
-pessoa133,0,1,658.92,Instagram,Smartphones,0,0,Comprou,Alto Valor
+pessoa133,0,1,658.92,Instagram,Smartphones,0,0,Comprou,Médio Valor
 pessoa134,1,0,0.0,Google Ads,Notebooks,1,1,Abandonou Carrinho,N/A
 pessoa135,1,0,0.0,Google Ads,Notebooks,0,0,Abandonou Carrinho,N/A
 pessoa136,1,1,481.63,Instagram,Smartphones,1,0,Comprou,Médio Valor
@@ -49,17 +49,17 @@ pessoa140,1,1,1728.98,Orgânico,Periféricos,0,1,Comprou,Alto Valor
 pessoa141,1,1,1974.72,Facebook,Periféricos,1,0,Comprou,Alto Valor
 pessoa142,0,1,1497.17,Google Ads,Notebooks,1,0,Comprou,Alto Valor
 pessoa143,1,1,1339.03,Instagram,Periféricos,1,0,Comprou,Alto Valor
-pessoa144,1,1,295.31,Orgânico,Smartphones,0,0,Comprou,Médio Valor
+pessoa144,1,1,295.31,Orgânico,Smartphones,0,0,Comprou,Baixo Valor
 pessoa145,0,1,1316.01,Orgânico,Smartphones,1,1,Comprou,Alto Valor
 pessoa146,0,1,1337.89,Instagram,Acessórios,0,0,Comprou,Alto Valor
 pessoa147,1,1,1263.29,Orgânico,Acessórios,0,1,Comprou,Alto Valor
 pessoa148,1,1,1073.97,Facebook,Notebooks,0,0,Comprou,Alto Valor
-pessoa149,0,1,725.13,Orgânico,Smartphones,0,0,Comprou,Alto Valor
+pessoa149,0,1,725.13,Orgânico,Smartphones,0,0,Comprou,Médio Valor
 pessoa15,1,0,0.0,Instagram,Periféricos,0,0,Abandonou Carrinho,N/A
 pessoa150,0,0,0.0,Orgânico,Notebooks,0,0,Abandonou Carrinho,N/A
 pessoa151,0,1,487.03,Orgânico,Smartphones,0,0,Comprou,Médio Valor
 pessoa152,0,0,0.0,Facebook,Periféricos,0,0,Abandonou Carrinho,N/A
-pessoa153,0,1,782.58,E-mail,Smartphones,0,0,Comprou,Alto Valor
+pessoa153,0,1,782.58,E-mail,Smartphones,0,0,Comprou,Médio Valor
 pessoa154,1,1,1236.82,Instagram,Periféricos,1,0,Comprou,Alto Valor
 pessoa155,1,1,1010.63,Google Ads,Notebooks,1,0,Comprou,Alto Valor
 pessoa156,1,1,1132.14,Facebook,Acessórios,0,0,Comprou,Alto Valor
@@ -77,12 +77,12 @@ pessoa166,0,1,884.76,Facebook,Notebooks,1,0,Comprou,Alto Valor
 pessoa167,0,1,1251.76,Instagram,Acessórios,0,1,Comprou,Alto Valor
 pessoa168,0,0,0.0,Google Ads,Acessórios,0,0,Abandonou Carrinho,N/A
 pessoa169,0,1,102.34,Facebook,Periféricos,1,0,Comprou,Baixo Valor
-pessoa17,0,1,731.4,Facebook,Periféricos,1,0,Comprou,Alto Valor
+pessoa17,0,1,731.4,Facebook,Periféricos,1,0,Comprou,Médio Valor
 pessoa170,1,1,1930.15,Facebook,Smartphones,0,1,Comprou,Alto Valor
 pessoa171,1,1,933.35,Facebook,Periféricos,0,0,Comprou,Alto Valor
 pessoa172,0,0,0.0,Google Ads,Periféricos,1,0,Abandonou Carrinho,N/A
 pessoa173,0,1,1938.27,Instagram,Periféricos,0,1,Comprou,Alto Valor
-pessoa174,1,1,256.77,Facebook,Acessórios,1,1,Comprou,Médio Valor
+pessoa174,1,1,256.77,Facebook,Acessórios,1,1,Comprou,Baixo Valor
 pessoa175,0,1,930.61,Instagram,Notebooks,1,1,Comprou,Alto Valor
 pessoa176,0,0,0.0,E-mail,Acessórios,1,0,Abandonou Carrinho,N/A
 pessoa177,1,0,0.0,Orgânico,Periféricos,1,0,Abandonou Carrinho,N/A
@@ -99,31 +99,31 @@ pessoa186,1,0,0.0,Google Ads,Acessórios,1,1,Abandonou Carrinho,N/A
 pessoa187,0,1,869.54,Instagram,Periféricos,1,1,Comprou,Alto Valor
 pessoa188,0,1,1606.62,Instagram,Smartphones,0,0,Comprou,Alto Valor
 pessoa189,1,0,0.0,Instagram,Notebooks,1,0,Abandonou Carrinho,N/A
-pessoa19,0,1,579.8,Google Ads,Notebooks,1,0,Comprou,Alto Valor
+pessoa19,0,1,579.8,Google Ads,Notebooks,1,0,Comprou,Médio Valor
 pessoa190,0,1,1832.49,Instagram,Notebooks,1,0,Comprou,Alto Valor
 pessoa191,0,1,1538.41,Facebook,Notebooks,0,0,Comprou,Alto Valor
 pessoa192,0,1,1588.5,Orgânico,Acessórios,1,0,Comprou,Alto Valor
 pessoa193,1,0,0.0,Orgânico,Notebooks,1,0,Abandonou Carrinho,N/A
 pessoa194,0,0,0.0,Orgânico,Notebooks,1,1,Abandonou Carrinho,N/A
 pessoa195,1,1,1392.87,Instagram,Notebooks,1,1,Comprou,Alto Valor
-pessoa196,1,1,349.54,Instagram,Acessórios,0,0,Comprou,Médio Valor
+pessoa196,1,1,349.54,Instagram,Acessórios,0,0,Comprou,Baixo Valor
 pessoa197,1,0,0.0,E-mail,Periféricos,1,0,Abandonou Carrinho,N/A
 pessoa198,0,1,402.57,Google Ads,Smartphones,1,0,Comprou,Médio Valor
 pessoa199,0,1,1237.56,E-mail,Smartphones,1,0,Comprou,Alto Valor
 pessoa2,1,0,0.0,E-mail,Acessórios,0,1,Abandonou Carrinho,N/A
-pessoa20,0,1,333.64,Instagram,Notebooks,1,0,Comprou,Médio Valor
+pessoa20,0,1,333.64,Instagram,Notebooks,1,0,Comprou,Baixo Valor
 pessoa200,1,0,0.0,Google Ads,Acessórios,0,0,Abandonou Carrinho,N/A
 pessoa21,1,0,0.0,E-mail,Periféricos,0,0,Abandonou Carrinho,N/A
 pessoa22,0,0,0.0,Orgânico,Notebooks,1,1,Abandonou Carrinho,N/A
 pessoa23,0,1,1514.13,Facebook,Acessórios,1,0,Comprou,Alto Valor
 pessoa24,0,1,1107.67,Google Ads,Notebooks,1,0,Comprou,Alto Valor
-pessoa25,0,1,384.2,Orgânico,Periféricos,1,0,Comprou,Médio Valor
+pessoa25,0,1,384.2,Orgânico,Periféricos,1,0,Comprou,Baixo Valor
 pessoa26,1,1,1113.67,Instagram,Smartphones,1,0,Comprou,Alto Valor
 pessoa27,0,1,1730.17,Instagram,Periféricos,0,1,Comprou,Alto Valor
 pessoa28,1,1,1348.27,E-mail,Acessórios,1,1,Comprou,Alto Valor
 pessoa29,0,1,1169.23,E-mail,Smartphones,0,0,Comprou,Alto Valor
 pessoa3,1,1,1688.4,Orgânico,Periféricos,0,1,Comprou,Alto Valor
-pessoa30,1,1,336.02,Google Ads,Periféricos,1,0,Comprou,Médio Valor
+pessoa30,1,1,336.02,Google Ads,Periféricos,1,0,Comprou,Baixo Valor
 pessoa31,0,1,982.74,E-mail,Periféricos,1,1,Comprou,Alto Valor
 pessoa32,1,1,1910.03,Orgânico,Acessórios,0,1,Comprou,Alto Valor
 pessoa33,0,1,134.9,Facebook,Notebooks,0,1,Comprou,Baixo Valor
@@ -132,7 +132,7 @@ pessoa35,1,0,0.0,Orgânico,Periféricos,1,0,Abandonou Carrinho,N/A
 pessoa36,1,1,1902.31,Facebook,Periféricos,1,1,Comprou,Alto Valor
 pessoa37,0,1,155.85,E-mail,Notebooks,0,0,Comprou,Baixo Valor
 pessoa38,1,0,0.0,Orgânico,Periféricos,1,0,Abandonou Carrinho,N/A
-pessoa39,0,1,391.95,Instagram,Smartphones,1,0,Comprou,Médio Valor
+pessoa39,0,1,391.95,Instagram,Smartphones,1,0,Comprou,Baixo Valor
 pessoa4,0,0,0.0,Instagram,Periféricos,1,0,Abandonou Carrinho,N/A
 pessoa40,0,1,1020.36,Google Ads,Notebooks,1,0,Comprou,Alto Valor
 pessoa41,1,1,1160.47,E-mail,Acessórios,0,1,Comprou,Alto Valor
@@ -151,21 +151,21 @@ pessoa52,0,1,178.25,Google Ads,Periféricos,0,0,Comprou,Baixo Valor
 pessoa53,1,0,0.0,Google Ads,Periféricos,1,0,Abandonou Carrinho,N/A
 pessoa54,0,0,0.0,E-mail,Notebooks,1,0,Abandonou Carrinho,N/A
 pessoa55,0,0,0.0,Google Ads,Notebooks,0,1,Abandonou Carrinho,N/A
-pessoa56,0,1,545.88,Instagram,Acessórios,0,0,Comprou,Alto Valor
+pessoa56,0,1,545.88,Instagram,Acessórios,0,0,Comprou,Médio Valor
 pessoa57,1,1,829.31,Facebook,Notebooks,1,1,Comprou,Alto Valor
 pessoa58,0,0,0.0,Orgânico,Acessórios,0,0,Abandonou Carrinho,N/A
 pessoa59,1,0,0.0,Instagram,Periféricos,1,0,Abandonou Carrinho,N/A
-pessoa6,1,1,254.9,Instagram,Smartphones,1,0,Comprou,Médio Valor
+pessoa6,1,1,254.9,Instagram,Smartphones,1,0,Comprou,Baixo Valor
 pessoa60,1,0,0.0,Google Ads,Notebooks,1,0,Abandonou Carrinho,N/A
-pessoa61,0,1,709.41,Facebook,Notebooks,1,0,Comprou,Alto Valor
+pessoa61,0,1,709.41,Facebook,Notebooks,1,0,Comprou,Médio Valor
 pessoa62,1,1,1517.09,Facebook,Acessórios,1,0,Comprou,Alto Valor
 pessoa63,1,1,1288.08,E-mail,Acessórios,0,1,Comprou,Alto Valor
 pessoa64,1,0,0.0,Orgânico,Smartphones,0,0,Abandonou Carrinho,N/A
 pessoa65,0,1,1227.23,Orgânico,Smartphones,1,0,Comprou,Alto Valor
-pessoa66,1,1,711.98,Google Ads,Acessórios,1,0,Comprou,Alto Valor
+pessoa66,1,1,711.98,Google Ads,Acessórios,1,0,Comprou,Médio Valor
 pessoa67,1,1,894.96,Orgânico,Notebooks,1,0,Comprou,Alto Valor
-pessoa68,1,1,692.71,Orgânico,Notebooks,1,0,Comprou,Alto Valor
-pessoa69,1,1,777.79,Orgânico,Acessórios,1,0,Comprou,Alto Valor
+pessoa68,1,1,692.71,Orgânico,Notebooks,1,0,Comprou,Médio Valor
+pessoa69,1,1,777.79,Orgânico,Acessórios,1,0,Comprou,Médio Valor
 pessoa7,0,1,1355.56,Orgânico,Smartphones,1,1,Comprou,Alto Valor
 pessoa70,1,1,939.85,Facebook,Notebooks,1,1,Comprou,Alto Valor
 pessoa71,0,1,1235.2,E-mail,Notebooks,1,0,Comprou,Alto Valor
@@ -173,7 +173,7 @@ pessoa72,0,0,0.0,Orgânico,Notebooks,1,1,Abandonou Carrinho,N/A
 pessoa73,0,0,0.0,Google Ads,Notebooks,1,1,Abandonou Carrinho,N/A
 pessoa74,1,1,198.22,Facebook,Notebooks,0,0,Comprou,Baixo Valor
 pessoa75,0,0,0.0,Google Ads,Acessórios,0,1,Abandonou Carrinho,N/A
-pessoa76,0,1,519.07,Facebook,Notebooks,1,1,Comprou,Alto Valor
+pessoa76,0,1,519.07,Facebook,Notebooks,1,1,Comprou,Médio Valor
 pessoa77,0,1,411.6,Facebook,Periféricos,1,1,Comprou,Médio Valor
 pessoa78,0,1,164.96,Facebook,Periféricos,1,0,Comprou,Baixo Valor
 pessoa79,1,1,870.09,Instagram,Acessórios,1,1,Comprou,Alto Valor
@@ -181,11 +181,11 @@ pessoa8,0,0,0.0,Google Ads,Periféricos,1,0,Abandonou Carrinho,N/A
 pessoa80,0,1,407.18,Orgânico,Periféricos,1,0,Comprou,Médio Valor
 pessoa81,0,0,0.0,E-mail,Acessórios,1,1,Abandonou Carrinho,N/A
 pessoa82,1,1,1037.23,Google Ads,Acessórios,0,0,Comprou,Alto Valor
-pessoa83,1,1,779.82,Facebook,Notebooks,0,0,Comprou,Alto Valor
+pessoa83,1,1,779.82,Facebook,Notebooks,0,0,Comprou,Médio Valor
 pessoa84,1,0,0.0,E-mail,Acessórios,0,1,Abandonou Carrinho,N/A
-pessoa85,0,1,693.08,Facebook,Smartphones,0,0,Comprou,Alto Valor
+pessoa85,0,1,693.08,Facebook,Smartphones,0,0,Comprou,Médio Valor
 pessoa86,1,1,1574.4,Facebook,Periféricos,1,0,Comprou,Alto Valor
-pessoa87,0,1,281.0,E-mail,Smartphones,1,1,Comprou,Médio Valor
+pessoa87,0,1,281.0,E-mail,Smartphones,1,1,Comprou,Baixo Valor
 pessoa88,1,0,0.0,Google Ads,Periféricos,1,1,Abandonou Carrinho,N/A
 pessoa89,0,0,0.0,Orgânico,Smartphones,1,0,Abandonou Carrinho,N/A
 pessoa9,0,0,0.0,Facebook,Smartphones,1,0,Abandonou Carrinho,N/A
@@ -193,7 +193,7 @@ pessoa90,1,0,0.0,Orgânico,Acessórios,1,0,Abandonou Carrinho,N/A
 pessoa91,0,1,1828.1,E-mail,Notebooks,1,0,Comprou,Alto Valor
 pessoa92,0,0,0.0,Orgânico,Notebooks,1,0,Abandonou Carrinho,N/A
 pessoa93,1,0,0.0,Google Ads,Notebooks,0,0,Abandonou Carrinho,N/A
-pessoa94,0,1,719.26,Facebook,Periféricos,1,1,Comprou,Alto Valor
+pessoa94,0,1,719.26,Facebook,Periféricos,1,1,Comprou,Médio Valor
 pessoa95,0,1,1013.72,Google Ads,Notebooks,0,0,Comprou,Alto Valor
 pessoa96,0,1,995.91,Facebook,Acessórios,0,0,Comprou,Alto Valor
 pessoa97,1,1,1932.59,Orgânico,Acessórios,1,0,Comprou,Alto Valor
