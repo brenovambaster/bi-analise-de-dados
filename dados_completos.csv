@@ -1,201 +1,189 @@
 nome,abandonou_carrinho,realizou_compra,valor_compra,canal_origem,categoria_interesse,abriu_email,clicou_em_link
-pessoa1,1,1,1250.52,E-mail,Notebooks,1,1
-pessoa10,0,1,639.32,Instagram,Periféricos,1,0
-pessoa100,1,0,0.0,Facebook,Acessórios,1,0
-pessoa101,0,1,1707.87,Instagram,Periféricos,0,0
-pessoa102,0,1,1476.4,E-mail,Periféricos,1,0
-pessoa103,1,0,0.0,Instagram,Acessórios,1,0
-pessoa104,0,0,0.0,Instagram,Smartphones,1,0
-pessoa105,0,1,486.8,Instagram,Smartphones,0,0
-pessoa106,1,0,0.0,Facebook,Smartphones,1,1
-pessoa107,0,0,0.0,E-mail,Acessórios,1,0
-pessoa108,0,0,0.0,Facebook,Notebooks,1,1
-pessoa109,1,1,1150.7,Instagram,Notebooks,0,1
-pessoa11,0,1,1294.65,E-mail,Notebooks,0,0
-pessoa110,0,1,133.94,Orgânico,Smartphones,1,1
-pessoa111,1,0,0.0,Instagram,Smartphones,1,1
-pessoa112,0,1,1696.86,E-mail,Acessórios,0,0
-pessoa113,1,1,1264.59,Facebook,Smartphones,0,1
-pessoa114,1,1,1742.01,Orgânico,Notebooks,1,0
-pessoa115,0,1,273.21,E-mail,Notebooks,1,0
-pessoa116,0,1,940.37,Orgânico,Periféricos,1,0
-pessoa117,1,0,0.0,Orgânico,Periféricos,0,0
-pessoa118,1,1,1985.05,Facebook,Smartphones,0,0
-pessoa119,0,1,1749.43,Instagram,Smartphones,0,1
-pessoa12,0,1,1458.36,Orgânico,Notebooks,1,0
-pessoa120,0,1,1888.35,Instagram,Notebooks,1,1
-pessoa121,0,1,1344.52,Facebook,Periféricos,1,0
-pessoa122,0,0,0.0,E-mail,Smartphones,0,0
-pessoa123,1,1,376.94,Orgânico,Notebooks,1,1
-pessoa124,1,1,1230.08,Facebook,Smartphones,1,1
-pessoa125,0,1,757.43,Orgânico,Acessórios,0,1
-pessoa126,1,1,667.79,Orgânico,Notebooks,1,0
-pessoa127,0,1,237.59,Instagram,Smartphones,1,1
-pessoa128,0,1,1779.05,Google Ads,Periféricos,0,1
-pessoa129,1,1,953.92,Google Ads,Smartphones,1,1
-pessoa13,0,1,1907.94,Orgânico,Smartphones,0,0
-pessoa130,1,0,0.0,E-mail,Periféricos,1,1
-pessoa131,1,0,0.0,Google Ads,Acessórios,0,1
-pessoa132,0,0,0.0,Facebook,Notebooks,1,0
-pessoa133,0,1,658.92,Instagram,Smartphones,0,0
-pessoa134,1,0,0.0,Google Ads,Notebooks,1,1
-pessoa135,1,0,0.0,Google Ads,Notebooks,0,0
-pessoa136,1,1,481.63,Instagram,Smartphones,1,0
-pessoa137,1,1,1802.82,Google Ads,Periféricos,1,1
-pessoa138,0,1,480.68,Google Ads,Periféricos,0,0
-pessoa139,0,0,0.0,Instagram,Notebooks,0,0
-pessoa14,0,0,0.0,Orgânico,Periféricos,0,0
-pessoa140,1,1,1728.98,Orgânico,Periféricos,0,1
-pessoa141,1,1,1974.72,Facebook,Periféricos,1,0
-pessoa142,0,1,1497.17,Google Ads,Notebooks,1,0
-pessoa143,1,1,1339.03,Instagram,Periféricos,1,0
-pessoa144,1,1,295.31,Orgânico,Smartphones,0,0
-pessoa145,0,1,1316.01,Orgânico,Smartphones,1,1
-pessoa146,0,1,1337.89,Instagram,Acessórios,0,0
-pessoa147,1,1,1263.29,Orgânico,Acessórios,0,1
-pessoa148,1,1,1073.97,Facebook,Notebooks,0,0
-pessoa149,0,1,725.13,Orgânico,Smartphones,0,0
-pessoa15,1,0,0.0,Instagram,Periféricos,0,0
-pessoa150,0,0,0.0,Orgânico,Notebooks,0,0
-pessoa151,0,1,487.03,Orgânico,Smartphones,0,0
-pessoa152,0,0,0.0,Facebook,Periféricos,0,0
-pessoa153,0,1,782.58,E-mail,Smartphones,0,0
-pessoa154,1,1,1236.82,Instagram,Periféricos,1,0
-pessoa155,1,1,1010.63,Google Ads,Notebooks,1,0
-pessoa156,1,1,1132.14,Facebook,Acessórios,0,0
-pessoa157,1,1,1115.06,Google Ads,Periféricos,0,0
-pessoa158,0,0,0.0,Facebook,Notebooks,1,0
-pessoa159,1,1,962.02,Orgânico,Smartphones,0,0
-pessoa16,0,1,993.35,Google Ads,Smartphones,1,0
-pessoa160,0,1,1371.84,E-mail,Periféricos,0,0
-pessoa161,0,0,0.0,E-mail,Acessórios,1,0
-pessoa162,0,1,1574.03,Facebook,Notebooks,0,0
-pessoa163,0,1,1776.81,Facebook,Periféricos,0,1
-pessoa164,0,1,117.16,Orgânico,Smartphones,0,0
-pessoa165,0,1,430.97,Google Ads,Notebooks,1,0
-pessoa166,0,1,884.76,Facebook,Notebooks,1,0
-pessoa167,0,1,1251.76,Instagram,Acessórios,0,1
-pessoa168,0,0,0.0,Google Ads,Acessórios,0,0
-pessoa169,0,1,102.34,Facebook,Periféricos,1,0
-pessoa17,0,1,731.4,Facebook,Periféricos,1,0
-pessoa170,1,1,1930.15,Facebook,Smartphones,0,1
-pessoa171,1,1,933.35,Facebook,Periféricos,0,0
-pessoa172,0,0,0.0,Google Ads,Periféricos,1,0
-pessoa173,0,1,1938.27,Instagram,Periféricos,0,1
-pessoa174,1,1,256.77,Facebook,Acessórios,1,1
-pessoa175,0,1,930.61,Instagram,Notebooks,1,1
-pessoa176,0,0,0.0,E-mail,Acessórios,1,0
-pessoa177,1,0,0.0,Orgânico,Periféricos,1,0
-pessoa178,0,1,853.65,Orgânico,Acessórios,1,0
-pessoa179,0,0,0.0,Facebook,Periféricos,1,1
-pessoa18,1,0,0.0,Instagram,Acessórios,1,0
-pessoa180,0,0,0.0,Google Ads,Periféricos,0,0
-pessoa181,1,0,0.0,Google Ads,Periféricos,1,0
-pessoa182,0,0,0.0,Instagram,Periféricos,1,0
-pessoa183,1,1,890.22,Google Ads,Periféricos,1,0
-pessoa184,0,0,0.0,Instagram,Notebooks,1,1
-pessoa185,1,1,1076.59,Google Ads,Smartphones,0,0
-pessoa186,1,0,0.0,Google Ads,Acessórios,1,1
-pessoa187,0,1,869.54,Instagram,Periféricos,1,1
-pessoa188,0,1,1606.62,Instagram,Smartphones,0,0
-pessoa189,1,0,0.0,Instagram,Notebooks,1,0
-pessoa19,0,1,579.8,Google Ads,Notebooks,1,0
-pessoa190,0,1,1832.49,Instagram,Notebooks,1,0
-pessoa191,0,1,1538.41,Facebook,Notebooks,0,0
-pessoa192,0,1,1588.5,Orgânico,Acessórios,1,0
-pessoa193,1,0,0.0,Orgânico,Notebooks,1,0
-pessoa194,0,0,0.0,Orgânico,Notebooks,1,1
-pessoa195,1,1,1392.87,Instagram,Notebooks,1,1
-pessoa196,1,1,349.54,Instagram,Acessórios,0,0
-pessoa197,1,0,0.0,E-mail,Periféricos,1,0
-pessoa198,0,1,402.57,Google Ads,Smartphones,1,0
-pessoa199,0,1,1237.56,E-mail,Smartphones,1,0
-pessoa2,1,0,0.0,E-mail,Acessórios,0,1
-pessoa20,0,1,333.64,Instagram,Notebooks,1,0
-pessoa200,1,0,0.0,Google Ads,Acessórios,0,0
-pessoa21,1,0,0.0,E-mail,Periféricos,0,0
-pessoa22,0,0,0.0,Orgânico,Notebooks,1,1
-pessoa23,0,1,1514.13,Facebook,Acessórios,1,0
-pessoa24,0,1,1107.67,Google Ads,Notebooks,1,0
-pessoa25,0,1,384.2,Orgânico,Periféricos,1,0
-pessoa26,1,1,1113.67,Instagram,Smartphones,1,0
-pessoa27,0,1,1730.17,Instagram,Periféricos,0,1
-pessoa28,1,1,1348.27,E-mail,Acessórios,1,1
-pessoa29,0,1,1169.23,E-mail,Smartphones,0,0
-pessoa3,1,1,1688.4,Orgânico,Periféricos,0,1
-pessoa30,1,1,336.02,Google Ads,Periféricos,1,0
-pessoa31,0,1,982.74,E-mail,Periféricos,1,1
-pessoa32,1,1,1910.03,Orgânico,Acessórios,0,1
-pessoa33,0,1,134.9,Facebook,Notebooks,0,1
-pessoa34,1,1,1476.14,Instagram,Acessórios,0,0
-pessoa35,1,0,0.0,Orgânico,Periféricos,1,0
-pessoa36,1,1,1902.31,Facebook,Periféricos,1,1
-pessoa37,0,1,155.85,E-mail,Notebooks,0,0
-pessoa38,1,0,0.0,Orgânico,Periféricos,1,0
-pessoa39,0,1,391.95,Instagram,Smartphones,1,0
-pessoa4,0,0,0.0,Instagram,Periféricos,1,0
-pessoa40,0,1,1020.36,Google Ads,Notebooks,1,0
-pessoa41,1,1,1160.47,E-mail,Acessórios,0,1
-pessoa42,1,1,177.43,E-mail,Acessórios,0,0
-pessoa43,1,1,1876.88,Facebook,Periféricos,0,1
-pessoa44,0,0,0.0,Instagram,Notebooks,1,1
-pessoa45,1,1,1216.98,Instagram,Smartphones,1,0
-pessoa46,0,1,923.17,E-mail,Notebooks,1,0
-pessoa47,1,1,1613.92,Instagram,Periféricos,0,0
-pessoa48,0,1,1016.48,Google Ads,Periféricos,1,0
-pessoa49,0,0,0.0,E-mail,Notebooks,1,0
-pessoa5,0,1,1341.2,Orgânico,Notebooks,1,1
-pessoa50,0,0,0.0,Instagram,Notebooks,1,1
-pessoa51,1,0,0.0,Orgânico,Smartphones,0,0
-pessoa52,0,1,178.25,Google Ads,Periféricos,0,0
-pessoa53,1,0,0.0,Google Ads,Periféricos,1,0
-pessoa54,0,0,0.0,E-mail,Notebooks,1,0
-pessoa55,0,0,0.0,Google Ads,Notebooks,0,1
-pessoa56,0,1,545.88,Instagram,Acessórios,0,0
-pessoa57,1,1,829.31,Facebook,Notebooks,1,1
-pessoa58,0,0,0.0,Orgânico,Acessórios,0,0
-pessoa59,1,0,0.0,Instagram,Periféricos,1,0
-pessoa6,1,1,254.9,Instagram,Smartphones,1,0
-pessoa60,1,0,0.0,Google Ads,Notebooks,1,0
-pessoa61,0,1,709.41,Facebook,Notebooks,1,0
-pessoa62,1,1,1517.09,Facebook,Acessórios,1,0
-pessoa63,1,1,1288.08,E-mail,Acessórios,0,1
-pessoa64,1,0,0.0,Orgânico,Smartphones,0,0
-pessoa65,0,1,1227.23,Orgânico,Smartphones,1,0
-pessoa66,1,1,711.98,Google Ads,Acessórios,1,0
-pessoa67,1,1,894.96,Orgânico,Notebooks,1,0
-pessoa68,1,1,692.71,Orgânico,Notebooks,1,0
-pessoa69,1,1,777.79,Orgânico,Acessórios,1,0
-pessoa7,0,1,1355.56,Orgânico,Smartphones,1,1
-pessoa70,1,1,939.85,Facebook,Notebooks,1,1
-pessoa71,0,1,1235.2,E-mail,Notebooks,1,0
-pessoa72,0,0,0.0,Orgânico,Notebooks,1,1
-pessoa73,0,0,0.0,Google Ads,Notebooks,1,1
-pessoa74,1,1,198.22,Facebook,Notebooks,0,0
-pessoa75,0,0,0.0,Google Ads,Acessórios,0,1
-pessoa76,0,1,519.07,Facebook,Notebooks,1,1
-pessoa77,0,1,411.6,Facebook,Periféricos,1,1
-pessoa78,0,1,164.96,Facebook,Periféricos,1,0
-pessoa79,1,1,870.09,Instagram,Acessórios,1,1
-pessoa8,0,0,0.0,Google Ads,Periféricos,1,0
-pessoa80,0,1,407.18,Orgânico,Periféricos,1,0
-pessoa81,0,0,0.0,E-mail,Acessórios,1,1
-pessoa82,1,1,1037.23,Google Ads,Acessórios,0,0
-pessoa83,1,1,779.82,Facebook,Notebooks,0,0
-pessoa84,1,0,0.0,E-mail,Acessórios,0,1
-pessoa85,0,1,693.08,Facebook,Smartphones,0,0
-pessoa86,1,1,1574.4,Facebook,Periféricos,1,0
-pessoa87,0,1,281.0,E-mail,Smartphones,1,1
-pessoa88,1,0,0.0,Google Ads,Periféricos,1,1
-pessoa89,0,0,0.0,Orgânico,Smartphones,1,0
-pessoa9,0,0,0.0,Facebook,Smartphones,1,0
-pessoa90,1,0,0.0,Orgânico,Acessórios,1,0
-pessoa91,0,1,1828.1,E-mail,Notebooks,1,0
-pessoa92,0,0,0.0,Orgânico,Notebooks,1,0
-pessoa93,1,0,0.0,Google Ads,Notebooks,0,0
-pessoa94,0,1,719.26,Facebook,Periféricos,1,1
-pessoa95,0,1,1013.72,Google Ads,Notebooks,0,0
-pessoa96,0,1,995.91,Facebook,Acessórios,0,0
-pessoa97,1,1,1932.59,Orgânico,Acessórios,1,0
-pessoa98,0,1,1925.48,Instagram,Smartphones,0,0
-pessoa99,0,1,1951.93,Orgânico,Smartphones,1,1
+pessoa83,0,1,995.91,Facebook,Notebooks,0.0,0.0
+pessoa11,0,1,993.35,E-mail,Notebooks,0.0,0.0
+pessoa30,0,1,982.74,Google Ads,Periféricos,1.0,0.0
+pessoa66,1,1,962.02,Google Ads,Acessórios,1.0,0.0
+pessoa158,1,1,953.92,Facebook,Notebooks,1.0,0.0
+pessoa46,0,1,940.37,E-mail,Notebooks,1.0,0.0
+pessoa58,1,1,939.85,Orgânico,Acessórios,0.0,0.0
+pessoa121,1,1,933.35,Facebook,Periféricos,1.0,0.0
+pessoa60,0,1,930.61,Google Ads,Notebooks,1.0,0.0
+pessoa25,0,1,923.17,Orgânico,Periféricos,1.0,0.0
+pessoa41,1,1,894.96,E-mail,Acessórios,0.0,1.0
+pessoa24,1,1,890.22,Google Ads,Notebooks,1.0,0.0
+pessoa92,1,1,870.09,Orgânico,Notebooks,1.0,0.0
+pessoa132,0,1,869.54,Facebook,Notebooks,1.0,0.0
+pessoa59,0,1,853.65,Instagram,Periféricos,1.0,0.0
+pessoa50,1,1,829.31,Instagram,Notebooks,1.0,1.0
+pessoa150,0,1,782.58,Orgânico,Notebooks,0.0,0.0
+pessoa128,1,1,779.82,Google Ads,Periféricos,0.0,1.0
+pessoa13,0,1,757.43,Orgânico,Smartphones,0.0,0.0
+pessoa71,0,1,731.4,E-mail,Notebooks,1.0,0.0
+pessoa145,0,1,725.13,Orgânico,Smartphones,1.0,1.0
+pessoa198,0,1,719.26,Google Ads,Smartphones,1.0,0.0
+pessoa163,1,1,711.98,Facebook,Periféricos,0.0,1.0
+pessoa183,0,1,709.41,Google Ads,Periféricos,1.0,0.0
+pessoa184,0,1,693.08,Instagram,Notebooks,1.0,1.0
+pessoa67,1,1,692.71,Orgânico,Notebooks,1.0,0.0
+pessoa86,1,1,667.79,Facebook,Periféricos,1.0,0.0
+pessoa126,0,1,658.92,Orgânico,Notebooks,1.0,0.0
+pessoa179,0,1,639.32,Facebook,Periféricos,1.0,1.0
+pessoa53,0,1,579.8,Google Ads,Periféricos,1.0,0.0
+pessoa89,0,1,545.88,Orgânico,Smartphones,1.0,0.0
+pessoa29,0,1,519.07,E-mail,Smartphones,0.0,0.0
+pessoa109,0,1,486.8,Instagram,Notebooks,0.0,1.0
+pessoa119,1,1,481.63,Instagram,Smartphones,0.0,1.0
+pessoa187,0,1,480.68,Instagram,Periféricos,1.0,1.0
+pessoa157,0,1,430.97,Google Ads,Periféricos,0.0,0.0
+pessoa28,0,1,411.6,E-mail,Acessórios,1.0,1.0
+pessoa1,0,1,407.18,E-mail,Notebooks,1.0,1.0
+pessoa125,0,1,402.57,Orgânico,Acessórios,0.0,1.0
+pessoa94,0,1,391.95,Facebook,Periféricos,1.0,1.0
+pessoa196,0,1,384.2,Instagram,Acessórios,0.0,0.0
+pessoa38,1,1,376.94,Orgânico,Periféricos,1.0,0.0
+pessoa96,1,1,349.54,Facebook,Acessórios,0.0,0.0
+pessoa3,1,1,336.02,Orgânico,Periféricos,0.0,1.0
+pessoa173,1,1,295.31,Instagram,Periféricos,0.0,1.0
+pessoa135,0,1,281.0,Google Ads,Notebooks,0.0,0.0
+pessoa149,0,1,273.21,Orgânico,Smartphones,0.0,0.0
+pessoa137,1,1,256.77,Google Ads,Periféricos,1.0,1.0
+pessoa45,1,1,254.9,Instagram,Smartphones,1.0,0.0
+pessoa43,0,1,237.59,Facebook,Periféricos,0.0,1.0
+pessoa181,1,1,1985.05,Google Ads,Periféricos,1.0,0.0
+pessoa93,1,1,198.22,Google Ads,Notebooks,0.0,0.0
+pessoa72,1,1,1974.72,Orgânico,Notebooks,1.0,1.0
+pessoa87,0,1,1951.93,E-mail,Smartphones,1.0,1.0
+pessoa10,0,1,1938.27,Instagram,Periféricos,1.0,0.0
+pessoa171,1,1,1932.59,Facebook,Periféricos,0.0,0.0
+pessoa31,1,1,1930.15,E-mail,Periféricos,1.0,1.0
+pessoa26,0,1,1925.48,Instagram,Smartphones,1.0,0.0
+pessoa127,1,1,1910.03,Instagram,Smartphones,1.0,1.0
+pessoa112,0,1,1907.94,E-mail,Acessórios,0.0,0.0
+pessoa120,0,1,1888.35,Instagram,Notebooks,1.0,1.0
+pessoa162,1,1,1876.88,Facebook,Notebooks,0.0,0.0
+pessoa133,0,1,1832.49,Instagram,Smartphones,0.0,0.0
+pessoa116,0,1,1828.1,Orgânico,Periféricos,1.0,0.0
+pessoa78,1,1,1802.82,Facebook,Periféricos,1.0,0.0
+pessoa140,0,1,178.25,Orgânico,Periféricos,0.0,1.0
+pessoa22,0,1,1779.05,Orgânico,Notebooks,1.0,1.0
+pessoa91,0,1,1776.81,E-mail,Notebooks,1.0,0.0
+pessoa7,1,1,177.43,Orgânico,Smartphones,1.0,1.0
+pessoa178,0,1,1749.43,Orgânico,Acessórios,1.0,0.0
+pessoa122,1,1,1742.01,E-mail,Smartphones,0.0,0.0
+pessoa55,0,1,1730.17,Google Ads,Notebooks,0.0,1.0
+pessoa70,1,1,1728.98,Facebook,Notebooks,1.0,1.0
+pessoa185,0,1,1707.87,Google Ads,Smartphones,0.0,0.0
+pessoa156,0,1,1696.86,Facebook,Acessórios,0.0,0.0
+pessoa35,1,1,1688.4,Orgânico,Periféricos,1.0,0.0
+pessoa189,0,1,164.96,Instagram,Notebooks,1.0,0.0
+pessoa68,1,1,1613.92,Orgânico,Notebooks,1.0,0.0
+pessoa54,0,1,1606.62,E-mail,Notebooks,1.0,0.0
+pessoa62,0,1,1588.5,Facebook,Acessórios,1.0,0.0
+pessoa111,1,1,1574.4,Instagram,Smartphones,1.0,1.0
+pessoa36,0,1,1574.03,Facebook,Periféricos,1.0,1.0
+pessoa44,0,1,155.85,Instagram,Notebooks,1.0,1.0
+pessoa6,0,1,1538.41,Instagram,Smartphones,1.0,0.0
+pessoa79,1,1,1517.09,Instagram,Acessórios,1.0,1.0
+pessoa63,0,1,1514.13,E-mail,Acessórios,0.0,1.0
+pessoa82,0,1,1497.17,Google Ads,Acessórios,0.0,0.0
+pessoa166,0,1,1476.4,Facebook,Notebooks,1.0,0.0
+pessoa74,1,1,1476.14,Facebook,Notebooks,0.0,0.0
+pessoa57,0,1,1458.36,Facebook,Notebooks,1.0,1.0
+pessoa20,1,1,1392.87,Instagram,Notebooks,1.0,0.0
+pessoa130,0,1,1371.84,E-mail,Periféricos,1.0,1.0
+pessoa202,0,1,1355.56,,,,
+pessoa174,1,1,1348.27,Facebook,Acessórios,1.0,1.0
+pessoa134,0,1,1344.52,Google Ads,Notebooks,1.0,1.0
+pessoa154,0,1,1341.2,Instagram,Periféricos,1.0,0.0
+pessoa170,0,1,134.9,Facebook,Smartphones,0.0,1.0
+pessoa168,1,1,1339.03,Google Ads,Acessórios,0.0,0.0
+pessoa80,0,1,1337.89,Orgânico,Periféricos,1.0,0.0
+pessoa85,0,1,133.94,Facebook,Smartphones,0.0,0.0
+pessoa180,0,1,1316.01,Google Ads,Periféricos,0.0,0.0
+pessoa148,0,1,1294.65,Facebook,Notebooks,0.0,0.0
+pessoa191,1,1,1288.08,Facebook,Notebooks,0.0,0.0
+pessoa192,1,1,1264.59,Orgânico,Acessórios,1.0,0.0
+pessoa23,1,1,1263.29,Facebook,Acessórios,1.0,0.0
+pessoa4,0,1,1251.76,Instagram,Periféricos,1.0,0.0
+pessoa152,1,1,1250.52,Facebook,Periféricos,0.0,0.0
+pessoa197,0,1,1237.56,E-mail,Periféricos,1.0,0.0
+pessoa151,1,1,1236.82,Orgânico,Smartphones,0.0,0.0
+pessoa12,0,1,1235.2,Orgânico,Notebooks,1.0,0.0
+pessoa47,1,1,1230.08,Instagram,Periféricos,0.0,0.0
+pessoa33,0,1,1227.23,Facebook,Notebooks,0.0,1.0
+pessoa194,1,1,1216.98,Orgânico,Notebooks,1.0,1.0
+pessoa153,0,1,1169.23,E-mail,Smartphones,0.0,0.0
+pessoa200,1,1,1160.47,Google Ads,Acessórios,0.0,0.0
+pessoa34,1,1,1150.7,Instagram,Acessórios,0.0,0.0
+pessoa69,1,1,1132.14,Orgânico,Acessórios,1.0,0.0
+pessoa190,1,1,1115.06,Instagram,Notebooks,1.0,0.0
+pessoa61,0,1,1107.67,Facebook,Notebooks,1.0,0.0
+pessoa95,1,1,1076.59,Google Ads,Notebooks,0.0,0.0
+pessoa90,1,1,1073.97,Orgânico,Acessórios,1.0,0.0
+pessoa65,1,1,1037.23,Orgânico,Smartphones,1.0,0.0
+pessoa142,0,1,1020.36,Google Ads,Notebooks,1.0,0.0
+pessoa76,0,1,102.34,Facebook,Notebooks,1.0,1.0
+pessoa98,0,1,1016.48,Instagram,Smartphones,0.0,0.0
+pessoa160,0,1,1013.72,E-mail,Periféricos,0.0,0.0
+pessoa146,1,1,1010.63,Instagram,Acessórios,0.0,0.0
+pessoa201,0,0,0.0,,,,
+pessoa106,1,0,0.0,Facebook,Smartphones,1.0,1.0
+pessoa110,0,0,0.0,Orgânico,Smartphones,1.0,1.0
+pessoa115,0,0,0.0,E-mail,Notebooks,1.0,0.0
+pessoa117,1,0,0.0,Orgânico,Periféricos,0.0,0.0
+pessoa118,0,0,0.0,Facebook,Smartphones,0.0,0.0
+pessoa123,0,0,0.0,Orgânico,Notebooks,1.0,1.0
+pessoa124,1,0,0.0,Facebook,Smartphones,1.0,1.0
+pessoa129,0,0,0.0,Google Ads,Smartphones,1.0,1.0
+pessoa131,1,0,0.0,Google Ads,Acessórios,0.0,1.0
+pessoa136,0,0,0.0,Instagram,Smartphones,1.0,0.0
+pessoa138,1,0,0.0,Google Ads,Periféricos,0.0,0.0
+pessoa139,1,0,0.0,Instagram,Notebooks,0.0,0.0
+pessoa14,0,0,0.0,Orgânico,Periféricos,0.0,0.0
+pessoa141,1,0,0.0,Facebook,Periféricos,1.0,0.0
+pessoa143,0,0,0.0,Instagram,Periféricos,1.0,0.0
+pessoa144,0,0,0.0,Orgânico,Smartphones,0.0,0.0
+pessoa147,1,0,0.0,Orgânico,Acessórios,0.0,1.0
+pessoa155,0,0,0.0,Google Ads,Notebooks,1.0,0.0
+pessoa159,1,0,0.0,Orgânico,Smartphones,0.0,0.0
+pessoa16,0,0,0.0,Google Ads,Smartphones,1.0,0.0
+pessoa161,0,0,0.0,E-mail,Acessórios,1.0,0.0
+pessoa164,1,0,0.0,Orgânico,Smartphones,0.0,0.0
+pessoa165,0,0,0.0,Google Ads,Notebooks,1.0,0.0
+pessoa167,0,0,0.0,Instagram,Acessórios,0.0,1.0
+pessoa169,1,0,0.0,Facebook,Periféricos,1.0,0.0
+pessoa172,0,0,0.0,Google Ads,Periféricos,1.0,0.0
+pessoa175,0,0,0.0,Instagram,Notebooks,1.0,1.0
+pessoa176,1,0,0.0,E-mail,Acessórios,1.0,0.0
+pessoa177,1,0,0.0,Orgânico,Periféricos,1.0,0.0
+pessoa18,1,0,0.0,Instagram,Acessórios,1.0,0.0
+pessoa182,0,0,0.0,Instagram,Periféricos,1.0,0.0
+pessoa186,0,0,0.0,Google Ads,Acessórios,1.0,1.0
+pessoa188,0,0,0.0,Instagram,Smartphones,0.0,0.0
+pessoa19,0,0,0.0,Google Ads,Notebooks,1.0,0.0
+pessoa193,0,0,0.0,Orgânico,Notebooks,1.0,0.0
+pessoa195,1,0,0.0,Instagram,Notebooks,1.0,1.0
+pessoa199,1,0,0.0,E-mail,Smartphones,1.0,0.0
+pessoa21,1,0,0.0,E-mail,Periféricos,0.0,0.0
+pessoa27,0,0,0.0,Instagram,Periféricos,0.0,1.0
+pessoa32,0,0,0.0,Orgânico,Acessórios,0.0,1.0
+pessoa37,1,0,0.0,E-mail,Notebooks,0.0,0.0
+pessoa39,1,0,0.0,Instagram,Smartphones,1.0,0.0
+pessoa40,0,0,0.0,Google Ads,Notebooks,1.0,0.0
+pessoa42,1,0,0.0,E-mail,Acessórios,0.0,0.0
+pessoa48,0,0,0.0,Google Ads,Periféricos,1.0,0.0
+pessoa49,0,0,0.0,E-mail,Notebooks,1.0,0.0
+pessoa5,1,0,0.0,Orgânico,Notebooks,1.0,1.0
+pessoa51,1,0,0.0,Orgânico,Smartphones,0.0,0.0
+pessoa52,1,0,0.0,Google Ads,Periféricos,0.0,0.0
+pessoa56,0,0,0.0,Instagram,Acessórios,0.0,0.0
+pessoa64,0,0,0.0,Orgânico,Smartphones,0.0,0.0
+pessoa73,1,0,0.0,Google Ads,Notebooks,1.0,1.0
+pessoa75,1,0,0.0,Google Ads,Acessórios,0.0,1.0
+pessoa77,1,0,0.0,Facebook,Periféricos,1.0,1.0
+pessoa8,0,0,0.0,Google Ads,Periféricos,1.0,0.0
+pessoa81,0,0,0.0,E-mail,Acessórios,1.0,1.0
+pessoa84,1,0,0.0,E-mail,Acessórios,0.0,1.0
+pessoa88,1,0,0.0,Google Ads,Periféricos,1.0,1.0
+pessoa97,0,0,0.0,Orgânico,Acessórios,1.0,0.0
+pessoa99,1,0,0.0,Orgânico,Smartphones,1.0,1.0

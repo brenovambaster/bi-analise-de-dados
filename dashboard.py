@@ -426,13 +426,13 @@ with col6:
 st.markdown("<br></br>", unsafe_allow_html=True)
 
 # Tabela de dados em card
-st.markdown('<p class="chart-title" style="text-align: center;">Dados Detalhados</p>', unsafe_allow_html=True)
+# st.markdown('<p class="chart-title" style="text-align: center;">Dados Detalhados</p>', unsafe_allow_html=True)
 
-st.dataframe(
-    df_filtered[['nome', 'canal_origem', 'categoria_interesse', 'Status da Compra', 'valor_compra', 'Faixa de Valor']],
-    use_container_width=True,
-    height=300
-)
+# st.dataframe(
+#     df_filtered[['nome', 'canal_origem', 'categoria_interesse', 'Status da Compra', 'valor_compra', 'Faixa de Valor']],
+#     use_container_width=True,
+#     height=300
+# )
 
 # Footer
 # st.markdown(
